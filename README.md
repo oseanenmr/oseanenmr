@@ -1,12 +1,12 @@
 # Hi there, I'm Janelle! 👋
 ### 🇵🇭 2nd Year BSIT Student
 
-I am a student developer building a path from **hardware logic** towards **secure application development**. My background is in low-level programming, and I am currently expanding into data and networking before shifting my focus to security and mobile dev.
+I am a student developer building a path from **hardware logic** towards **secure application development**. My background is in low-level programming, and I am currently expanding into networking before shifting my focus to security and mobile dev.
 
 ---
 
 ### 🚀 About Me
-- 🔭 **Current Focus:** I'm currently studying **MySQL**, **Data Communication & Networking 1**, and **Arduino**.
+- 🔭 **Current Focus:** I'm currently studying **MySQL**, **Networking**, and **Arduino**.
 - 🌱 **Next Steps:** I will be specializing in **Mobile Programming** and **Cybersecurity** starting next semester.
 - ⚡ **Background:** Built my foundation in **C Programming**, **Web Dev**, and **Breadboarding** during my first year.
 
